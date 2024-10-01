@@ -28,4 +28,3 @@ Tämä ohjelma muuntaa verkkosivuja PDF-tiedostoiksi ja mahdollistaa niiden lata
 
 2. Syötä verkkosivun URL
 3. Klikkaa "Muunna PDF:ksi"
-4. Halutessasi lataa tiedosto GitHubiin syöttämällä token ja repositorion nimi
